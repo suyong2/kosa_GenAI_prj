@@ -1,0 +1,1 @@
+# kosa_GenAI_prj
